@@ -1,2 +1,2 @@
-# Veena
-Jeevan@2005
+minor project 1
+
